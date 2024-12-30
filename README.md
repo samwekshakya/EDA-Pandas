@@ -23,7 +23,7 @@ Scatter plots for correlations between variables.
 Heatmaps to visualize missing data and correlations.
 ____
 # Technologies and Libraries Used
-Python
-Pandas: Data manipulation and analysis.
-Seaborn: Advanced data visualization.
-Matplotlib: Basic plotting and charting.
+- Python
+- Pandas: Data manipulation and analysis.
+- Seaborn: Advanced data visualization.
+- Matplotlib: Basic plotting and charting.
